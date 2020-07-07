@@ -21,6 +21,7 @@
 - :octocat: [horverno](https://github.com/horverno)
 - :octocat: [kajdocsilaszlo](https://github.com/kajdocsilaszlo)
 - :octocat: [oliverosz](https://github.com/oliverosz)
+- :octocat: [tszboldi](https://github.com/tszboldi)
 - :octocat: [zoleeeka](https://github.com/zoleeeka)
 
 ## Tanszékhez köthető GitHub felhasználók
